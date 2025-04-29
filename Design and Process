@@ -1,0 +1,30 @@
+Walks through our full design lifecycle—from research to UI delivery—capturing the structured steps we followed to ensure a user-centered and iterative approach.
+
+A) Discovery and Research:
+1. Conducted 15 user interviews with Westchester tenants to map pain points.
+
+2. Performed competitive analysis on housing‑justice platforms.
+
+B) Ideation & Requirements:
+
+1. Facilitated 3 co‑creation workshops to define feature set and user flows.
+
+2. Created personas and empathy maps to guide solution focus.
+
+C) Wireframing & Prototyping:
+
+1. Designed low‑fidelity wireframes in Figma; iterated through 4 rounds based on stakeholder feedback.
+
+2. Developed high‑fidelity prototypes for desktop and mobile (Figma Interactive).
+
+D) Usability Testing:
+
+1. Conducted 2 usability test sessions with 12 participants; captured 30+ qualitative insights.
+
+2. Refined interactions (e.g., letter‑creation workflow reduced from 7 steps to 4).
+
+E) Final UI & Handoff:
+
+1. Delivered a UI component library (Figma) with tokens for color, typography, and spacing.
+
+2. Generated Zeplin specs for React development team, accelerating frontend implementation by 25%.
